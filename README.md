@@ -1,6 +1,6 @@
 ### README.md
 
-```markdown
+
 # LidarHD Data Processing Tool
 
 This Python script automates the downloading of LidarHD data from IGN based on a user-provided shapefile and optionally rasterize this data.
