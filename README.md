@@ -44,7 +44,7 @@ python process_lidar.py -input path/to/your/shapefile.shp -output path/to/output
 - `-input`: Specifies the path to the user's shapefile.
 - `-output`: Specifies the directory where the Lidar files and any generated raster files will be stored.
 - `-verbose`: Enables verbose mode; 1 for detailed logs, 0 for minimal output.
-- `-to_dtm`: Indicates whether to process the downloaded Lidar data into DTM/DSM; 1 for yes, 0 for no.
+- `-to_dtm`: Indicates whether to process the downloaded Lidar data into a raster; 1 for yes, 0 for no.
 - `--classes`: Specifies Lidar classes to include. Use a space-separated list of class numbers, or 'ALL' for all classes.
 - `--res`: Sets the resolution for the output raster files.
 
