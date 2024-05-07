@@ -2,6 +2,8 @@
 
 This Python script automates the downloading of LidarHD data from IGN based on a user-provided shapefile and optionally rasterize this data.
 
+If you're working with R, a similar package exists : [https://forgemia.inra.fr/lidar/lidarHD](https://forgemia.inra.fr/lidar/lidarHD)
+
 ## Prerequisites
 
 Before running this script, ensure you have Conda installed on your system. Also, be sure to download and unzip the LidarHD tiles in data.zip next to download_LidarHD.py
