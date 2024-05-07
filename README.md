@@ -1,13 +1,12 @@
-### README.md
-
-
 # LidarHD Data Processing Tool
 
 This Python script automates the downloading of LidarHD data from IGN based on a user-provided shapefile and optionally rasterize this data.
 
 ## Prerequisites
 
-Before running this script, ensure you have Conda installed on your system. You can install the necessary Python packages using the following Conda commands:
+Before running this script, ensure you have Conda installed on your system. Also, be sure to download and unzip the LidarHD tiles in data.zip next to download_LidarHD.py
+
+You can install the necessary Python packages using the following Conda commands:
 
 ```bash
 conda create --name lidar_processing python=3.8
