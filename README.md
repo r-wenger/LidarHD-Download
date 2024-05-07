@@ -55,5 +55,3 @@ python process_lidar.py -input path/to/your/shapefile.shp -output path/to/output
 ## Support
 
 For issues and questions, please contact [romain.wenger@live-cnrs.unistra.fr].
-
-```
