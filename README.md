@@ -20,7 +20,7 @@ conda install -c conda-forge pdal python-pdal gdal
 Clone this repository or download the script to your local machine:
 
 ```bash
-git clone 
+git clone https://github.com/r-wenger/LidarHD-Download.git
 ```
 
 Navigate to the script directory:
